@@ -1,0 +1,6 @@
+dn: cn=tonyelmore,dc=example,dc=org
+objectClass: inetOrgPerson
+cn: tonyelmore
+sn: doe
+mail: tonyelmore@example.org
+userPassword: tonyelmore123

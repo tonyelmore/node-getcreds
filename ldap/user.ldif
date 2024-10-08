@@ -1,0 +1,11 @@
+dn: cn=test user,dc=example,dc=org
+objectClass: inetOrgPerson
+cn: test user
+sn: user
+mail: test@example.org
+userPassword: password
+
+dn: cn=mygroup,ou=groups,dc=example,dc=org
+objectClass: groupOfNames
+cn: mygroup
+member: cn=test user, dc=example, dc=org

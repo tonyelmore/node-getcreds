@@ -1,0 +1,26 @@
+{
+  "name": "getcreds",
+  "version": "1.0.0",
+  "description": "Sample node application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
+  "author": "Tony Elmore",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "jwks-rsa": "^3.1.0",
+    "passport": "^0.7.0",
+    "passport-ldapauth": "^3.0.1",
+    "uuid": "^10.0.0"
+  }
+}

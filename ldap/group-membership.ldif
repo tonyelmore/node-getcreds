@@ -1,0 +1,5 @@
+dn: cn=developers,dc=example,dc=org
+changetype: modify
+add: member
+member: cn=johndoe,dc=example,dc=org
+member: cn=tonyelmore,dc=example,dc=org

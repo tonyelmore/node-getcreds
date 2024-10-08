@@ -1,0 +1,6 @@
+dn: cn=johndoe,dc=example,dc=org
+objectClass: inetOrgPerson
+cn: johndoe
+sn: doe
+mail: johndoe@example.org
+userPassword: johndoe123

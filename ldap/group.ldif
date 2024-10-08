@@ -1,0 +1,4 @@
+dn: cn=developers, dc=example, dc=org
+objectClass: groupOfNames
+cn: developers
+description: A group for developers
